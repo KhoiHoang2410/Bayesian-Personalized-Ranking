@@ -1,0 +1,2 @@
+Train-Train: 0.855999
+Train-Test: 0.848096
