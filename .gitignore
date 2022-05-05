@@ -1,3 +1,4 @@
 MIND*
-result
+result/**/*.npy
 .ipynb_checkpoints
+datafile/*.csv
