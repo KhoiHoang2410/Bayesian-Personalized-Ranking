@@ -1,0 +1,9 @@
+user min: 80
+item min: 80
+test ratio: 0.800000
+alpha: 0.001000
+lambda: 0.020000
+k: 60
+n iters: 1000001
+Test-Train: 0.751030
+Test-Test: 0.732476
