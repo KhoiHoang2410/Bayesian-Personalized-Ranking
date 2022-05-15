@@ -1,0 +1,21 @@
+Parameters:
+
+user min: 30
+item min: 30
+test ratio: 0.500000
+alpha: 0.001000
+lambda: 0.020000
+k: 60
+n iters: 300000
+AUC-Train: 0.847807
+AUC-Test: 0.837894
+---------------------
+Total users: 49108 
+Total items: 33195 
+Total interacts: 5107639 
+No training users: 20166 
+No training items: 12550 
+BPR matrix with 666544 stored elements
+Train matrix with 328286 stored elements
+Test matrix with 338258 stored elements
+Matrix initial with 10
