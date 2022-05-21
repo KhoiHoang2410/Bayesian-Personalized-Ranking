@@ -2,3 +2,4 @@ MIND*
 result/**/*.npy
 .ipynb_checkpoints
 datafile/*.csv
+bert
