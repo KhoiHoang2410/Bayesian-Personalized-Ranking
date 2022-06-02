@@ -3,3 +3,4 @@ result/**/*.npy
 .ipynb_checkpoints
 datafile/*.csv
 bert
+bert_large
