@@ -4,3 +4,4 @@ result/**/*.npy
 datafile/*.csv
 bert
 bert_large
+tf-idf
